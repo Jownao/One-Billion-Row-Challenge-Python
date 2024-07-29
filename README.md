@@ -2,7 +2,7 @@
 
 # * Aula 05 da Jornada de Dados *
 
-## [Minha contribuição](src\contribuicao.md)
+## [Minha contribuição](https://github.com/Jownao/One-Billion-Row-Challenge-Python/blob/main/src/contribuicao.md)
 
 ## Introdução
 
