@@ -1,5 +1,8 @@
 # Um Bilhão de Linhas: Desafio de Processamento de Dados com Python
 
+# * Aula 05 da Jornada de Dados *
+
+
 ## Introdução
 
 O objetivo deste projeto é demonstrar como processar eficientemente um arquivo de dados massivo contendo 1 bilhão de linhas (~14GB), especificamente para calcular estatísticas (Incluindo agregação e ordenação que são operações pesadas) utilizando Python. 
